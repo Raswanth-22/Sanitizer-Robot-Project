@@ -1,5 +1,5 @@
 # Sanitizer-Robot-Project
-Control of an autonomous mobile robot that has to perform some tasks in the **Turtlebot3** simulation environment using **ROS Noetic**. Course project of *Autonomous and Mobile Robotics* course at University of Bologna. Team members: Lorenzo Balandi, Salvatore Bamundo (https://github.com/Salvatore1999).
+Control of an autonomous mobile robot that has to perform some tasks in the **Turtlebot3** simulation environment using **ROS Noetic**.
 
 This repository includes:
 * ROS packages used and developed for the project (Python and C++). *turtlebot3_big_house*  and *turtlebot3_project_house* are gazebo environments
