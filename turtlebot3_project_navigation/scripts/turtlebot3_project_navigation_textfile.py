@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-'''
-AMR project navigation: the robot reades goals from text files and reaches them
-Balandi, Bamundo 27 Jan 2022
-'''
+
 import rospy
 import actionlib
 from move_base_msgs.msg import MoveBaseAction, MoveBaseGoal
