@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 
-'''
-23 Jan 2022
-'''
+
 import cv2
 import numpy as np
 
