@@ -1,7 +1,4 @@
-// example_move_base_client that accepts inputs from the terminal: 
-// wsn, October, 2016
-// LB, 10 dec 21
-// client of move_base
+
 
 #include <ros/ros.h>
 #include <actionlib/client/simple_action_client.h>
