@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-
-'''
-23 Jan 2022
-Balandi, Bamundo
-AMR Project
-'''
-
+#!/usr/bin/env python3
 import rospy
 import actionlib
 from move_base_msgs.msg import MoveBaseAction, MoveBaseGoal
