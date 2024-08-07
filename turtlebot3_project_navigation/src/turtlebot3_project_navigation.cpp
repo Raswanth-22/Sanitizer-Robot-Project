@@ -1,12 +1,4 @@
-// example_move_base_client: 
-// wsn, October, 2016
-// client of move_base
 
-/*
-LB, 22 Jan 2022
-Navigation node for AMR project
-
-*/
 
 #include <ros/ros.h>
 #include <actionlib/client/simple_action_client.h>
